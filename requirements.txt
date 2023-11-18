@@ -26,8 +26,10 @@ executing==1.2.0
 fastjsonschema==2.16.3
 fonttools==4.38.0
 fqdn==1.5.1
+geoid==1.1.5
 geojson==3.0.1
 geojsoncontour==0.4.0
+geomodels==1.0.0b4
 idna==3.4
 ipykernel==6.21.2
 ipython==8.10.0
