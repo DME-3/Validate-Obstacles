@@ -6,3 +6,7 @@ test_load_Copernicus_DEM.ipynb
 EGG08_data/egm08_25.gtx
 DEM_data/urn_eop_DLR_CDEM10_Copernicus_DSM_04_N50_00_E006_00_V8239-2020_1__DEM1__coverage_20231204210410.tif
 process_zone.ipynb
+temp_DEM_file.tif
+logs/
+job_lists/
+results/
